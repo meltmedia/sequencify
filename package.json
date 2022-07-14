@@ -1,9 +1,9 @@
 {
-  "name": "sequencify",
+  "name": "@meltmedia/sequencify",
   "description": "A module for sequencing tasks and dependencies",
-  "version": "1.0.0",
-  "homepage": "https://github.com/robrich/sequencify",
-  "repository": "git://github.com/robrich/sequencify.git",
+  "version": "1.0.1",
+  "homepage": "https://github.com/meltmedia/sequencify",
+  "repository": "git://github.com/meltmedia/sequencify.git",
   "author": "Rob Richardson (http://robrich.org/)",
   "main": "./index.js",
   "keywords": [
